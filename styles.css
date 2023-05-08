@@ -1,15 +1,14 @@
 body {
-    background-color: #B0DAFF;
     font-family: 'Ubuntu', sans-serif;
 }
 
 .title {
-    background-color: white;
     text-align: center;
 }
 
 .body {
-    background-color: white;
+    background-color: #19A7CE;
+    color: white
     margin: auto;
     width: 90%;
 }
