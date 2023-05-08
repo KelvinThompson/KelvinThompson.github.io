@@ -1,3 +1,13 @@
 body {
+    background-color: #B0DAFF;
     font-family: 'Ubuntu', sans-serif;
+}
+
+.title {
+    text-align: center;
+}
+
+.body {
+    border: 1px solid white;
+    width: 90%;
 }
