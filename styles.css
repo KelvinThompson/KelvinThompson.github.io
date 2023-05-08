@@ -8,9 +8,10 @@ body {
 
 .body {
     background-color: #19A7CE;
+    border: 5px solid white;
     border-radius: 25px;
     color: white;
     margin: auto;
-    padding: 1px;
+    padding: 5px;
     width: 95%;
 }
