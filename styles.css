@@ -1,0 +1,12 @@
+body {
+    font-family: Ubuntu;
+}
+
+.title {
+    text-align: center;
+}
+
+.cv {
+    margin: auto;
+    width: 95%;
+}
