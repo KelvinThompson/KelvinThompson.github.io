@@ -7,6 +7,12 @@ body {
 }
 
 .cv {
+    border-left: solid 1px #6C7A89;
+    list-style-type: style color #41644A;
     margin: auto;
     width: 95%;
+}
+
+.green {
+    color:#41644A;
 }
