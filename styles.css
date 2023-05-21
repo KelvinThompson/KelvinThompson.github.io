@@ -2,6 +2,11 @@ body {
     font-family: Ubuntu;
 }
 
+ul {
+    list-style-type: disc;
+    color: #41644A;
+}
+
 .title {
     text-align: center;
 }
@@ -13,12 +18,11 @@ body {
 
 .cv {
     border-left: dotted 1px #6C7A89;
-    list-style-type: style color #617A55;
     margin: auto;
     padding-left: 5px;
     width: 95%;
 }
 
 .green {
-    color: #617A55;
+    color: #41644A;
 }
