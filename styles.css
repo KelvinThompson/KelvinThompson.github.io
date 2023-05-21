@@ -6,13 +6,19 @@ body {
     text-align: center;
 }
 
-.cv {
-    border-left: solid 1px #6C7A89;
-    list-style-type: style color #41644A;
+.profile {
     margin: auto;
     width: 95%;
 }
 
+.cv {
+    border-left: dotted 1px #6C7A89;
+    list-style-type: style color #617A55;
+    margin: auto;
+    padding-left: 5px;
+    width: 95%;
+}
+
 .green {
-    color:#41644A;
+    color: #617A55;
 }
