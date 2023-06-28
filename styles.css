@@ -37,3 +37,10 @@ body {
 .green {
     color: #41644A;
 }
+
+.footer {
+    bottom: 5px;
+    font-size: 0.8em;
+    max-width: 100%;
+    text-align: right;
+}

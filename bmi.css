@@ -5,3 +5,11 @@ body {
 div {
     margin: auto;
 }
+
+.footer {
+    bottom: 5px;
+    font-size: 0.8em;
+    right: 5px;
+    position: fixed;
+    max-width: 100%;
+}
