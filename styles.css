@@ -14,8 +14,24 @@ body {
 .cv {
     border-left: dotted 1px #6C7A89;
     margin: auto;
-    padding-left: 5px;
+    padding: 0px 12px 0px 12px;
     width: 95%;
+}
+
+.cv2 {
+    border-left: dotted 1px #6C7A89;
+    margin: auto;
+    padding: 0px 12px 0px 12px;
+    width: 100%;
+}
+
+.container {
+    margin: auto;
+    max-width: 95%;
+}
+
+.col-md-6 {
+    padding: 0px;
 }
 
 .green {
