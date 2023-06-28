@@ -10,18 +10,13 @@ div {
     max-width: 95%;
 }
 
-h1 {
-    font-size: 3em;
-}
-
 table {
-    font-size: 2em;
     margin: auto;
     max-width: 25%;
 }
 
 th {
-    padding-bottom: 50px;
+    padding-bottom: 25px;
 }
 
 td {
@@ -29,7 +24,7 @@ td {
 }
 
 img {
-    height: 200px;
+    height: 150px;
     margin: auto;
-    width: 200px;
+    width: 150px;
 }
