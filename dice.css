@@ -11,20 +11,25 @@ div {
 }
 
 h1 {
-    font-size: 6em;
+    font-size: 3em;
 }
 
 table {
-    font-size: 4em;
+    font-size: 2em;
     margin: auto;
+    max-width: 25%;
 }
 
 th {
     padding-bottom: 50px;
 }
 
+td {
+    padding: 0 10px 0 10px;
+}
+
 img {
-    height: 60%;
+    height: 200px;
     margin: auto;
-    width: 60%;
+    width: 200px;
 }
