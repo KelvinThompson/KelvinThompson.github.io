@@ -1,0 +1,30 @@
+body {
+    background-color: #41644A;
+    color: white;
+    font-family: Ubuntu;
+}
+
+div {
+    text-align: center;
+    margin: auto;
+    max-width: 95%;
+}
+
+h1 {
+    font-size: 6em;
+}
+
+table {
+    font-size: 4em;
+    margin: auto;
+}
+
+th {
+    padding-bottom: 50px;
+}
+
+img {
+    height: 60%;
+    margin: auto;
+    width: 60%;
+}
