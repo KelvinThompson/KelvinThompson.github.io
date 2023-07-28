@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
 // Function to fetch weather data from the API 
 async function getWeatherData() {
     try {
-        const response = await fetch ("${weatherEndpoint}?lat=${latitude}&lon=${longitude}&appid=${API_KEY}")
+        const response = await fetch (weatherEndpoint + `?lat=${latitude}&lon=${longitude}$appid=${API_KEY}`);
         if (!response.ok) {
             throw new Error("Weather data not available");
         }
